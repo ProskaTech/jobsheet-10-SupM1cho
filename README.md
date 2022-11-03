@@ -9,4 +9,4 @@ NIM: 21343032
 6. Di MobilUtama.java membuat object Honda lalu menggunakan variable dan method dari Mobil.java
 7. Di Android.java mendeklarasikan method untuk digunakan pada AndroMain.java
 8. Di AndroidMain.java membuat object MyAndroid dah menggunakan method dari Android.java
-9. Di SKS.java memiliki 3 method
+9. Di SKS.java memiliki 3 method dimana method TotalSKS menggunakan percabangan IF-ELSE
